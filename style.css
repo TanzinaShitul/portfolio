@@ -457,10 +457,32 @@ span {
 
 /* ===Socials=== */
 
-
-.socials {
-   padding: 2px;
+.social-media2 a {
+   display:inline-flex;
+   justify-content:center;
+   align-items: center;
+   width: 4rem;
+   height: 4rem;
+   background: transparent;
+   border: .2rem solid var(--main-color);
+   border-radius: 50%;
+   font-size: 2rem;
+   color: var(--main-color);
+   transition: .5s ease;
+   margin: 3rem 1.5rem 3rem 0;
+}
+.social-media2{
    text-align: center;
+   margin-bottom: 2rem;
+}
+.social-media2 a:hover {
+   background: var(--main-color);
+   color: var(--second-bg-color);
+   box-shadow: 0 0 1rem var(--main-color);
+}
+.social-media2 .section-title {
+    font-size: 24px;
+    margin-bottom: -2rem;
 }
 
 
