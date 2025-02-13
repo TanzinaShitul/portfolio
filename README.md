@@ -15,11 +15,11 @@ To run this project locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone http
+sudo git clone http https://github.com/TanzinaShitul/portfolio
 
 Windows:
 
-git clone https://github.com/shreya6360/Responsive-personal_portfolio.git 
+git clone https://github.com/TanzinaShitul/portfolio
 
 # License
 This project is free to use and does not contains any license.
